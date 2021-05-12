@@ -19,6 +19,7 @@ img {
   width: 40%;
   height: auto;
   border-radius: 25%
+  border: 5px solid #772014;
 }
 
 p {
@@ -53,13 +54,10 @@ a:hover {
   color: #772014;
 }
 
-.img-circle {
-  border-radius: 50%;
-  border: 5px solid #772014;
-}
 .text-center {
   text-align: center;
 }
+
 .card-white {
   background: #E6CCBE;
   padding: 30px;
@@ -80,8 +78,8 @@ a:hover {
   .container {
     width: 500px;
   }
-
 }
+
 @media (max-width: 540px) {
   /* For a screen < 540px, this CSS will be read */
   .container {
