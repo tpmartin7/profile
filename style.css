@@ -55,6 +55,7 @@ a:hover {
 
 .img-circle {
   border-radius: 50%;
+  border: 5px solid #772014;
 }
 .text-center {
   text-align: center;
