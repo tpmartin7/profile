@@ -19,7 +19,7 @@ img {
   width: 40%;
   height: auto;
   border-radius: 25%;
-  /*border: 5px solid #772014;*/
+  border: 5px solid rgba(77,20,14,0.5);
 }
 
 p {
